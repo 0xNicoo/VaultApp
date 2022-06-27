@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 10px;
+    text-align: center;
+    background: #48335e;
+    color: white;
+    font-size: 15px;
+}
+
+.btn-header {
+    background-color: #f43649;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.btn-header:hover {
+    background-color: #d20b1f;
+
+}
+
+.bodyStyle {
+    background-color: #282c34;
+    min-height: 100vh;
+    color: aliceblue;
+}
